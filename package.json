@@ -1,0 +1,26 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yill625/semantic-release-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yill625/semantic-release-demo/issues"
+  },
+  "homepage": "https://github.com/Yill625/semantic-release-demo#readme",
+  "dependencies": {
+    "semantic-release-cli": "^5.4.4"
+  },
+  "devDependencies": {
+    "semantic-release": "^18.0.1"
+  }
+}
